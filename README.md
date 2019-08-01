@@ -30,6 +30,7 @@
         - required
         - max length 1000
     - belongs_to user
+    - has_many comments
 
 3. Comments
     - content
