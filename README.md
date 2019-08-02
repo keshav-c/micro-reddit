@@ -1,6 +1,6 @@
 # Micro Reddit
 
-... project description
+This project involves the creation of the **data model** for a website, that approximates the functionality of [Reddit](https://www.reddit.com/). Once the models are generated and the migrations aer ran, the data model can be tested in the Rails console (`rails console`). No view pages or UI were generated at this point of time.
 
 ## Project Participants
 
