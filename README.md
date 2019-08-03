@@ -38,3 +38,14 @@ This project involves the creation of the **data model** for a website, that app
         - max length 1000
     - belongs_to post
     - belongs_to user
+
+### Entity Relationship Diagram
+
+![ERD](erd.png)
+
+### Setup 
+
+1. Clone this repo.
+2. Run the migration: `rails db:migrate`
+3. Open the console: `rails console`
+4. Try playing with the `User`, `Post` and `Comment` objects that constitute this project's data model.
